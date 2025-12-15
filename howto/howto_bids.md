@@ -31,6 +31,12 @@ sub-<label>/
 ### anat 
 T1w sidecar JSON files are optional.
 
+However, you can add a json with minimum number of fields.
+
+```
+
+```
+
 
 ### func
 
